@@ -1,0 +1,142 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QBoundingBox.h
+QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+QPoint.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QPoint.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QPoint.h
+QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QUtilityFunctions.h
+QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+QPoint.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QPoint.h
+QBoundingBox.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QBoundingBox.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+iostream
+-
+vector
+-
+string
+-
+algorithm
+-
+cmath
+-
+sstream
+-
+fstream
+-
+cstring
+-
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testBulkLoad.h
+../QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+../QPoint.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QPoint.h
+../prQuadTree.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/prQuadTree.h
+../prQuadNode.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/prQuadNode.h
+../QBoundingBox.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QBoundingBox.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testCases.h
+testCasesQPoint.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testCasesQPoint.h
+testCasesQBoundingBox.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testCasesQBoundingBox.h
+testCasesprQuadTree.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testCasesprQuadTree.h
+testCasesmxcifQuadTree.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testCasesmxcifQuadTree.h
+testBulkLoad.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testBulkLoad.h
+testTimeConsumption.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testTimeConsumption.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testCasesQBoundingBox.h
+../QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+../QBoundingBox.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QBoundingBox.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testCasesQPoint.h
+../QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+../QPoint.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QPoint.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testCasesmxcifQuadTree.h
+../QUtilityFunctions.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QUtilityFunctions.h
+../mxcifQuadNode.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/mxcifQuadNode.h
+../mxcifQuadTree.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/mxcifQuadTree.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testCasesprQuadTree.h
+../QUtilityFunctions.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QUtilityFunctions.h
+../prQuadNode.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/prQuadNode.h
+../prQuadTree.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/prQuadTree.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testTimeConsumption.h
+../QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+../QPoint.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QPoint.h
+../prQuadTree.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/prQuadTree.h
+../prQuadNode.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/prQuadNode.h
+../QBoundingBox.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QBoundingBox.h
+testBulkLoad.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testBulkLoad.h
+intrin.h
+-
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/mxcifQuadNode.h
+QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+QBoundingBox.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QBoundingBox.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/mxcifQuadTree.h
+QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+mxcifQuadNode.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/mxcifQuadNode.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/prQuadNode.h
+QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+QBoundingBox.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QBoundingBox.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/prQuadTree.h
+QuadTreeLib.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/QuadTreeLib.h
+prQuadNode.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/prQuadNode.h
+
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/spatialIndexingMain.cpp
+Test/testCases.h
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/Test/testCases.h
+

@@ -1,0 +1,3 @@
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/cmake-build-debug/CMakeFiles/advdbTest.dir
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/Sahil/MS in US/ASU/ASU SEM 2/AdbDB/Project My repositoty/advdbSpatialTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
